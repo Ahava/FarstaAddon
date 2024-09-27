@@ -7,6 +7,6 @@ local MediaType_FONT = LSM.MediaType.FONT
 LSM:Register(
 	MediaType_FONT,
 	"GothamNarrowUltra",
-	[[Interface\Addons\FarstaAddon\src\media\fonts\GothamNarrowUltra.ttf]],
+	[[Interface\Addons\FarstaAddon\assets\fonts\GothamNarrowUltra.ttf]],
 	koKR + ruRU + zhCN + zhTW + western
 )
