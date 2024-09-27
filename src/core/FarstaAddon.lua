@@ -8,8 +8,6 @@ function FarstaAddon:OnInitialize()
 end
 
 function FarstaAddon:OnEnable()
-	local BetterAnchors = LibStub("AceAddon-3.0"):GetAddon("BetterAnchors")
-	self:SecureHook(BetterAnchors, "CreateAllAnchorFrames", "ExtendAnchorFrames")
 end
 
 function FarstaAddon:OnDisable() end
