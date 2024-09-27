@@ -21,7 +21,7 @@ LSM:Register(
 LSM:Register(
 	MediaType_FONT,
 	"UrbanisRegular",
-	[[Interface\Addons\FarstaAddon\assets\fonts\UrbanisRegular.ttf]],
+	[[Interface\Addons\FarstaAddon\assets\fonts\UrbanistRegular.ttf]],
 	koKR + ruRU + zhCN + zhTW + western
 )
 
