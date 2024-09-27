@@ -1,0 +1,6 @@
+## Interface: 110002
+## Title: Farsta Addon
+## Notes: This is good
+## Version: 0.0.1
+
+src/init.xml
