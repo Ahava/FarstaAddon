@@ -3,4 +3,10 @@
 ## Notes: This is good
 ## Version: 0.0.1
 
+#@no-lib-strip@
+
+libs.xml
+
+#@end-no-lib-strip@
+
 src/init.xml
