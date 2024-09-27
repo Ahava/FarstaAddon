@@ -1,4 +1,5 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/">
 	<Include file ="core\core.xml"/>
     <Include file ="media\media.xml"/>
+    <Include file ="anchors\anchors.xml"/>
 </Ui>

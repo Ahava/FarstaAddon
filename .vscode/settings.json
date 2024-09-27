@@ -13,5 +13,8 @@
     },
     "Lua.workspace.library": [
         "~\\.vscode-insiders\\extensions\\ketho.wow-api-0.17.6\\Annotations"
+    ],
+    "Lua.diagnostics.globals": [
+        "ANCHOR_FRAMES"
     ]
 }
