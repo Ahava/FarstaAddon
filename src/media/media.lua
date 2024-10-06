@@ -219,41 +219,17 @@ LSM:Register(
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_taunt.ogg]]
 )
 
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 00|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_0.ogg]]
-)
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 00|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_0.ogg]])
 
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 01|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_1.ogg]]
-)
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 01|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_1.ogg]])
 
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 02|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_2.ogg]]
-)
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 02|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_2.ogg]])
 
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 03|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_3.ogg]]
-)
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 03|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_3.ogg]])
 
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 04|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_4.ogg]]
-)
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 04|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_4.ogg]])
 
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 05|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_5.ogg]]
-)
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 05|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_5.ogg]])
 
 LSM:Register(
 	MediaType_SOUND,
@@ -261,32 +237,13 @@ LSM:Register(
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_six.ogg]]
 )
 
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 07|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_7.ogg]])
 
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 07|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_7.ogg]]
-)
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 08|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_8.ogg]])
 
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 09|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_9.ogg]])
 
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 08|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_8.ogg]]
-)
-
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 09|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_9.ogg]]
-)
-
-LSM:Register(
-	MediaType_SOUND,
-	"|cFFec99ffFF|r|cFF5ddfec 10|r",
-	[[Interface\Addons\FarstaAddon\assets\sounds\ff_10.ogg]]
-)
-
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 10|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_10.ogg]])
 
 -- #######
 --  FONTS
