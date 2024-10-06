@@ -2,6 +2,7 @@
 ## Title: Farsta Addon
 ## Notes: This is good
 ## Version: 0.0.1
+## X-Curse-Project-ID: 1116337
 
 #@no-lib-strip@
 
