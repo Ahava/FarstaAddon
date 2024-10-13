@@ -17,6 +17,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Adds|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_adds.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Adds Incoming|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_adds_incoming.ogg]]
 )
@@ -61,6 +67,12 @@ LSM:Register(
 	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Boss Damage|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_boss_damage.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Buster|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_buster.ogg]]
 )
 
 LSM:Register(
@@ -125,6 +137,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Hit Ghosts|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_hit_ghosts.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Incoming|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_incoming.ogg]]
 )
@@ -139,6 +157,12 @@ LSM:Register(
 	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Kick|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_kick.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Knock|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_knock.ogg]]
 )
 
 LSM:Register(
@@ -209,6 +233,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Soak|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_soak.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Stack|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_stack.ogg]]
 )
@@ -217,6 +247,12 @@ LSM:Register(
 	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Taunt|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_taunt.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Tank Buster|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_tank_buster.ogg]]
 )
 
 LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 00|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_0.ogg]])
