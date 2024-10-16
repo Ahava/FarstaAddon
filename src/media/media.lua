@@ -71,6 +71,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Break|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_break.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Buster|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_buster.ogg]]
 )
