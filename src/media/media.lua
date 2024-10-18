@@ -4,6 +4,7 @@ local koKR, ruRU, zhCN, zhTW, western =
 
 local MediaType_FONT = LSM.MediaType.FONT
 local MediaType_SOUND = LSM.MediaType.SOUND
+local MediaType_STATUSBAR = LSM.MediaType.STATUSBAR
 
 -- ########
 --  SOUNDS
@@ -113,6 +114,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Eggs|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_eggs.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Fixate|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_fixate.ogg]]
 )
@@ -169,6 +176,12 @@ LSM:Register(
 	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Knock|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_knock.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Lines|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_lines.ogg]]
 )
 
 LSM:Register(
@@ -332,3 +345,12 @@ LSM:Register(
 	[[Interface\Addons\FarstaAddon\assets\fonts\UrbanistBlack.ttf]],
 	koKR + ruRU + zhCN + zhTW + western
 )
+
+LSM:Register(
+	MediaType_FONT,
+	"Reddit Mono ExtraBold",
+	[[Interface\Addons\FarstaAddon\assets\fonts\RedditMono-ExtraBold.ttf]],
+	koKR + ruRU + zhCN + zhTW + western
+)
+
+LSM:Register(MediaType_STATUSBAR, "Melli", [[Interface\Addons\FarstaAddon\assets\textures\Melli]])
