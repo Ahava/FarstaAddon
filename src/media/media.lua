@@ -108,6 +108,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Dispel|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_dispel.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Dodge|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_dodge.ogg]]
 )
