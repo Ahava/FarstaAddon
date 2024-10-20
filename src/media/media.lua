@@ -280,6 +280,10 @@ LSM:Register(
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_tank_buster.ogg]]
 )
 
+-- ########
+--  Numbers
+-- ########
+
 LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 00|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_0.ogg]])
 
 LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 01|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_1.ogg]])
@@ -305,6 +309,27 @@ LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 08|r", [[Interface\Addon
 LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 09|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_9.ogg]])
 
 LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|cFF5ddfec 10|r", [[Interface\Addons\FarstaAddon\assets\sounds\ff_10.ogg]])
+
+
+-- ########
+--  Markers
+-- ########
+
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:16|t", [[Interface\Addons\FarstaAddon\assets\sounds\ff_yellow.ogg]])
+
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:16|t", [[Interface\Addons\FarstaAddon\assets\sounds\ff_orange.ogg]])
+
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_3:16|t", [[Interface\Addons\FarstaAddon\assets\sounds\ff_purple.ogg]])
+
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_4:16|t", [[Interface\Addons\FarstaAddon\assets\sounds\ff_green.ogg]])
+
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_5:16|t", [[Interface\Addons\FarstaAddon\assets\sounds\ff_moon.ogg]])
+
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:16|t", [[Interface\Addons\FarstaAddon\assets\sounds\ff_blue.ogg]])
+
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_7:16|t", [[Interface\Addons\FarstaAddon\assets\sounds\ff_cross.ogg]])
+
+LSM:Register(MediaType_SOUND, "|cFFec99ffFF|r|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:16|t", [[Interface\Addons\FarstaAddon\assets\sounds\ff_skull.ogg]])
 
 -- #######
 --  FONTS
