@@ -1,7 +1,7 @@
-## Interface: 110002
+## Interface: 110005
 ## Title: Farsta Addon
 ## Notes: This is good
-## Version: 0.1.6
+## Version: 0.1.8
 ## X-Curse-Project-ID: 1116337
 
 #@no-lib-strip@

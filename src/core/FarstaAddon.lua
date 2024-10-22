@@ -1,6 +1,6 @@
----@class FarstaAddon : AceAddon-3.0, AceConsole-3.0, AceHook-3.0
+---@class FarstaAddon : AceAddon-3.0, AceConsole-3.0
 
-local FarstaAddon = LibStub("AceAddon-3.0"):NewAddon("FarstaAddon", "AceConsole-3.0", "AceHook-3.0")
+local FarstaAddon = LibStub("AceAddon-3.0"):NewAddon("FarstaAddon", "AceConsole-3.0")
 _G.FarstaAddon = FarstaAddon
 
 function FarstaAddon:OnInitialize()
