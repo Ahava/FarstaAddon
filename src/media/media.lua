@@ -96,6 +96,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Clockwise|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_clockwise.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Dance|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_dance.ogg]]
 )
@@ -134,6 +140,12 @@ LSM:Register(
 	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Frontal|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_frontal.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Get Out|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_get_out.ogg]]
 )
 
 LSM:Register(
@@ -192,6 +204,18 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Lines Clockwise|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_lines_clockwise.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Lines Through Boss|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_lines_through_boss.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Linked|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_linked.ogg]]
 )
@@ -206,6 +230,12 @@ LSM:Register(
 	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Out|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_out.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Out Of Middle|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_out_of_middle.ogg]]
 )
 
 LSM:Register(
@@ -278,6 +308,12 @@ LSM:Register(
 	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Tank Buster|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_tank_buster.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Through Boss|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_through_boss.ogg]]
 )
 
 -- ########
