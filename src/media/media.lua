@@ -126,6 +126,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Dot|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_dot.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Eggs|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_eggs.ogg]]
 )
