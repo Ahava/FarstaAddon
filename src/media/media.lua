@@ -156,6 +156,12 @@ LSM:Register(
 
 LSM:Register(
 	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Grip|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_grip.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Group One Soak|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_group_one_soak.ogg]]
 )
@@ -272,6 +278,12 @@ LSM:Register(
 	MediaType_SOUND,
 	"|cFFec99ffFF|r|cFF5ddfec Roots|r",
 	[[Interface\Addons\FarstaAddon\assets\sounds\ff_roots.ogg]]
+)
+
+LSM:Register(
+	MediaType_SOUND,
+	"|cFFec99ffFF|r|cFF5ddfec Rotate|r",
+	[[Interface\Addons\FarstaAddon\assets\sounds\ff_rotate.ogg]]
 )
 
 LSM:Register(
